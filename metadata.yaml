@@ -1,0 +1,32 @@
+_repo: Kindness-to-Animals--Or-The-Sin-of-Cruelty-Exposed-and-Rebuked_17961
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Charlotte Elizabeth
+    aliases:
+    - Elizabeth, Charlotte
+    - Elisabeth, Charlotte
+    - Tonna, Charlotte Elizabeth Browne
+    - Phelan, Charlotte Elizabeth
+    birthdate: 1790
+    deathdate: 1846
+    gutenberg_agent_id: '2647'
+    url: http://www.gutenberg.org/2009/agents/2647
+    wikipedia: http://digital.lib.msu.edu/projects/ssb/search.cfm?AuthorID=176
+description: ''
+gutenberg_issued: '2006-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Animal welfare'
+title: Kindness to Animals; Or, The Sin of Cruelty Exposed and Rebuked
+url: http://www.gutenberg.org/ebooks/17961
